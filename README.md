@@ -1,3 +1,4 @@
 # AAI695_Applied_ML
 
-Exploring Applied Machine Learning 
+This repository contains the work I completed on Applied Machine Learning during my graduate studies at the Stevens Institute of Technology.
+
